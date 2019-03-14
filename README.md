@@ -21,6 +21,8 @@
 
 sudo apt-get install -y git
 
+* Neste momento sera pedido a senha padrão do computador, que é serconfis@123
+
 ```
 
 #### Instalação
@@ -28,7 +30,7 @@ sudo apt-get install -y git
 * Ainda no terminal, digite os comandos abaixo:
 
 ```
-git clone https://github.com/robertvilvert/sped-contabil.git
+git clone https://github.com/nidrev/sped-contabil.git
 cd sped-contabil
 ./install.sh
 
