@@ -2,7 +2,7 @@
 
 clear
 
-SPED_VERSION="SPEDContabil_linux_x86-6.0.3.jar"
+SPED_VERSION="SPEDContabil_linux_x86-6.0.4.jar"
 
 
 echo "Atualizando sistema..."
