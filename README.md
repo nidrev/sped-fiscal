@@ -30,8 +30,8 @@ sudo apt-get install -y git
 * Ainda no terminal, digite os comandos abaixo:
 
 ```
-git clone https://github.com/nidrev/sped-contabil.git
-cd sped-contabil
+git clone https://github.com/nidrev/spedcontabil.git
+cd spedcontabil
 ./install.sh
 
 ```
