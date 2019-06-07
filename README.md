@@ -1,4 +1,4 @@
-# SpedContabil
+# SpedFiscal
 
 #### Ambiente homologado
 
@@ -30,8 +30,8 @@ sudo apt-get install -y git
 * Ainda no terminal, digite os comandos abaixo:
 
 ```
-git clone https://github.com/nidrev/spedcontabil.git
-cd spedcontabil
+git clone https://github.com/nidrev/sped-fiscal.git
+cd sped-fiscal
 ./install.sh
 
 ```
