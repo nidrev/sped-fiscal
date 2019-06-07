@@ -31,7 +31,7 @@ sudo apt-get install -y git
 
 ```
 git clone https://github.com/nidrev/sped-fiscal.git
-cd sped-fiscal
+cd spedfiscal
 ./install.sh
 
 ```
