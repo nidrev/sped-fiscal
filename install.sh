@@ -2,7 +2,7 @@
 
 clear
 
-SPED_VERSION="SpedEcf_linux_x64-5.1.5.jar"
+SPED_VERSION="SpedEcf_linux_x64-5.1.3.jar"
 
 
 echo "Atualizando sistema..."
